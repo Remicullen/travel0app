@@ -1,5 +1,5 @@
 {
   "domain": "remi-tam.eu.auth0.com",
   "clientId": "MZsGGdcQKOo88gVJEtw3VeTtjngGjEGZ",
-  "audience": "{yourApiIdentifier}"
+  "audience": "https://remi-tam.eu.auth0.com/api/v2/"
 }
