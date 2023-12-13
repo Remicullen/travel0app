@@ -9,12 +9,12 @@ const app = express();
 
 const port = process.env.API_PORT || 3001;
 const appPort = process.env.SERVER_PORT || 3000;
-const appOrigin = authConfig.appOrigin || `http://localhost:${appPort}`;
+const appOrigin = authConfig.appOrigin || `http://localhost:${appPort}` || `https://rctravelapp.com`;
 
 if (
   !authConfig.domain ||
   !authConfig.audience ||
-  authConfig.audience === "YOUR_API_IDENTIFIER"
+  authConfig.audience === "https://remi-tam.eu.auth0.com/api/v2/"
 ) {
   console.log(
     "Exiting: Please make sure that auth_config.json is in place and populated with valid domain and audience values"
