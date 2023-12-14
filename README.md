@@ -8,6 +8,9 @@ This sample demonstrates the following use cases:
 - [Unverified Account Blocking using Actions](https://auth0.com/docs/customize/actions/write-your-first-action#create-an-action)
 - [Universal Login Customization](https://auth0.com/docs/authenticate/login/auth0-universal-login/new-experience#flow-customization)
 - [Social Login](https://auth0.com/docs/authenticate/identity-providers)
+Make sure Node.JS LTS is installed and execute the following commands in the sample's directory:
+
+`npm install && npm start `
 
 ## Project setup
 
