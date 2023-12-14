@@ -21,25 +21,6 @@ yarn install
 ```bash
 yarn run dev
 ```
-
-## Deployment
-
-### Compiles and minifies for production
-
-```bash
-yarn run build
-```
-
-### Docker build
-
-To build and run the Docker image, run `exec.sh`, or `exec.ps1` on Windows.
-
-### Run your tests
-
-```bash
-yarn run test
-```
-
 ## Author
 
 [Auth0](https://auth0.com)
