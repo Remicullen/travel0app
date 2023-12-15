@@ -1,6 +1,6 @@
-# Travel0 App Modernization Project
+# Cruise0 App Modernization Project
 
-This sample demonstrates the app modernization of Travel0 using [Auth0 React SDK](https://github.com/auth0/auth0-react) 
+This sample demonstrates the app modernization of Cruise0 using [Auth0 React SDK](https://github.com/auth0/auth0-react) 
 
 This sample demonstrates the following use cases:
 
