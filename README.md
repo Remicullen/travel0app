@@ -9,6 +9,11 @@ This sample demonstrates the following use cases:
 - [Universal Login Customization](https://auth0.com/docs/authenticate/login/auth0-universal-login/new-experience#flow-customization)
 - [Social Login](https://auth0.com/docs/authenticate/identity-providers)
 
+
+Make sure Node.JS LTS is installed and execute the following commands in the sample's directory:
+
+`npm install && npm start `
+
 ## Project setup
 
 Use `yarn` to install the project dependencies:
